@@ -7,3 +7,12 @@
   <description>Test download</description>
   <item>
     <title>RSS test download</title>
+  </item>
+ <title>Ubuntu 22.04</title>
+  <link>https://releases.ubuntu.com/releases/22.04/ubuntu-22.04-desktop-amd64.iso</link>
+  <description>Test- download</description>
+  <item>
+    <title>Test Ubuntu</title>
+  </item>
+</channel>
+
