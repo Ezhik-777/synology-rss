@@ -3,17 +3,23 @@
     <title>RSS</title>
     <language>ru-RU</language>
     <link>https://github.com/Ezhik-777/synology-rss/blob/main/RSS.xml</link>
-    <pubDate>Thu, 28 Apr 2022 08:22:32 +0200</pubDate>
+    <pubDate>Thu, 28 Apr 2022 16:50:59 +0100</pubDate>
     <itunes:author>Ezhik</itunes:author>
       <item>
         <title>Ubuntu 22.04 LTS</title>
 	<link>https://releases.ubuntu.com/releases/22.04/ubuntu-22.04-desktop-amd64.iso</link>
-        <pubDate>Thu, 28 Apr 2022 08:39:58 +0200</pubDate>
+        <pubDate>Thu, 28 Apr 2022 08:29:58 +0100</pubDate>
       </item>
       <item>
         <title>Ubuntu 20.04 LTS</title>
 	<link>http://www.releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent</link>
-        <pubDate>Thu, 28 Apr 2022 08:47:58 +0200</pubDate>
+        <pubDate>Thu, 28 Apr 2022 08:47:58 +0100</pubDate>
+      </item>
+
+      <item>
+        <title>Ubuntu 16.04</title>
+	<link> http://www.releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-i386.iso.torrent</link>
+        <pubDate>Thu, 28 Apr 2022 16:50:58 +0100</pubDate>
       </item>
     </channel>
 </rss>
