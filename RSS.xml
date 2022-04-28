@@ -1,1 +1,9 @@
-RSS!
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="1.0">
+
+<channel>
+  <title>RSS for Synology DS</title>
+  <link>https://test.com </link>
+  <description>Test download</description>
+  <item>
+    <title>RSS test download</title>
