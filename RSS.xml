@@ -2,18 +2,13 @@
   <channel>
     <title>RSS</title>
     <language>ru-RU</language>
-    <link>https://kino.pub/item/view/59140/The-Witcher</link>
-    <pubDate>28 Apr 2022 08:22:32 +0200</pubDate>
+    <link>https://github.com/Ezhik-777/synology-rss/blob/main/RSS.xml</link>
+    <pubDate>Thu, 28 Apr 2022 08:22:32 +0200</pubDate>
     <itunes:author>Ezhik</itunes:author>
       <item>
-        <title>s02e08 - Семья</title>
-	<link>https://kino.pub/item/view/59140/s2e8/The-Witcher</link>
-        <pubDate>Fri, 17 Dec 2021 10:33:58 +0200</pubDate>
-      </item>
-      <item>
-        <title>s02e07 - Волет Мейр</title>
-        <link>https://kino.pub/item/view/59140/s2e7/The-Witcher</link>
-        <pubDate>Fri, 17 Dec 2021 10:31:09 +0200</pubDate>
+        <title>Ubuntu 22.04 LTS</title>
+	<link>https://releases.ubuntu.com/releases/22.04/ubuntu-22.04-desktop-amd64.iso</link>
+        <pubDate>Thu, 28 Apr 2022 08:39:58 +0200</pubDate>
       </item>
     </channel>
 </rss>
