@@ -3,38 +3,17 @@
     <title>RSS</title>
     <language>ru-RU</language>
     <link>https://kino.pub/item/view/59140/The-Witcher</link>
-    <pubDate>Fri, 20 Dec 2019 07:42:32 +0200</pubDate>
-    <itunes:author>kinopub</itunes:author>
-    <itunes:summary>Ведьмак Геральт, мутант и убийца чудовищ, на своей верной лошади по кличке Плотва путешествует по Континенту. За тугой мешочек чеканных монет этот мужчина избавит вас от всякой настырной нечисти - хоть от чудищ болотных, оборотней и даже заколдованных принцесс. В сельской глуши местную девушку Йеннифэр, которой сильно не повезло с внешностью, зато посчастливилось иметь способности к магии, отец продаёт колдунье в ученицы. А малолетняя наследница королевства Цинтра по имени Цири вынуждена пуститься в бега, когда их страну захватывает империя Нильфгаард. Судьбы этих троих окажутся тесно связаны, но скоро сказка сказывается, да не скоро дело делается.</itunes:summary>  
-    <itunes:owner>
-      <itunes:name>kinopub</itunes:name>
-    </itunes:owner>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://cdn.service-kp.com/poster/item/square/59140.jpg" />
-    <itunes:category text="TV Series"></itunes:category>
-			    	<item>
+    <pubDate>28 Apr 2022 08:22:32 +0200</pubDate>
+    <itunes:author>Ezhik</itunes:author>
+      <item>
         <title>s02e08 - Семья</title>
-        <itunes:summary>1080p</itunes:summary>
-		<link>https://kino.pub/item/view/59140/s2e8/The-Witcher</link>
-        <itunes:author>kinopub</itunes:author>
-        <itunes:image href="https://cdn.service-kp.com/thumb/e/f5/fAE3FpFICBLUOYOlF/1647000/480x270.jpg" />
-        <enclosure url="https://cdn-azure.net/pd/aWQ9Mzg4Mzc4OzE0ODY0MDM4NjE7MTcwNzg0MDc7MTY1MTEyNTU0OCZoPUlHQ1h0VXBYZWpXRW16ZFdTQjNGTXcmZT0xNjUxMjExOTQ4/f/df/uiLgvxfiNotitOCMm.mp4?loc=nl" type="video/mp4"/>
-        <itunes:duration>3293</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-        <guid>https://kino.pub/item/view/59140/s2e8/The-Witcher</guid>
+	<link>https://kino.pub/item/view/59140/s2e8/The-Witcher</link>
         <pubDate>Fri, 17 Dec 2021 10:33:58 +0200</pubDate>
-		</item>
-		    	<item>
+      </item>
+      <item>
         <title>s02e07 - Волет Мейр</title>
-        <itunes:summary>1080p</itunes:summary>
-		<link>https://kino.pub/item/view/59140/s2e7/The-Witcher</link>
-        <itunes:author>kinopub</itunes:author>
-        <itunes:image href="https://cdn.service-kp.com/thumb/6/4d/Iw1M3zJlEMW8xszym/1639000/480x270.jpg" />
-        <enclosure url="https://cdn-azure.net/pd/aWQ9Mzg4Mzc4OzE0ODY0MDM4NjE7MTcwNzg0MDc7MTY1MTEyNTU0OCZoPUlHQ1h0VXBYZWpXRW16ZFdTQjNGTXcmZT0xNjUxMjExOTQ4/2/38/NrmaNDprKx7yqQ0uo.mp4?loc=nl" type="video/mp4"/>
-        <itunes:duration>3277</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-        <guid>https://kino.pub/item/view/59140/s2e7/The-Witcher</guid>
+        <link>https://kino.pub/item/view/59140/s2e7/The-Witcher</link>
         <pubDate>Fri, 17 Dec 2021 10:31:09 +0200</pubDate>
-		</item>
-	      </channel>
+      </item>
+    </channel>
 </rss>
